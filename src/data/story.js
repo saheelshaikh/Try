@@ -1,13 +1,13 @@
-import img1 from "../assets/images/img1.jpg";
-import img2 from "../assets/images/img2.jpg";
-import img3 from "../assets/images/img3.jpg";
-import img4 from "../assets/images/img4.jpg";
-import img5 from "../assets/images/img5.jpg";
+import img1 from "../assets/images/img01.jpg";
+import img2 from "../assets/images/img02.jpg";
+import img3 from "../assets/images/img03.jpg";
+import img4 from "../assets/images/img04.jpg";
+import img5 from "../assets/images/img05.jpg";
 
 export const story = [
   {
     image: img1,
-    text: "Hiiii Goluuuu, Just wanted to tell you somethingggg...",
+    text: "Hiiii motuuu, Just wanted to tell you somethingggg...",
   },
   {
     image: img2,
