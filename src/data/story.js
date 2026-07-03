@@ -1,7 +1,7 @@
-import img1 from "../assets/images/img01.JPG";
-import img2 from "../assets/images/img02.JPG";
-import img3 from "../assets/images/img03.JPG";
-import img4 from "../assets/images/img04.PNG";
+import img1 from "../assets/images/one.JPG";
+import img2 from "../assets/images/day.JPG";
+import img3 from "../assets/images/firstpic.JPG";
+import img4 from "../assets/images/funday.PNG";
 import img5 from "../assets/images/img05.PNG";
 
 export const story = [
@@ -11,18 +11,18 @@ export const story = [
   },
   {
     image: img2,
-    text: "Do you remember this picture? Our first picture that you took ✨",
+    text: "Do you remember this picture? you took the mobile and send this to all your friends in snap ✨",
   },
   {
     image: img3,
-    text: "Our first trip as a hackathon... 🥺",
+    text: "Our first pic jab ap apna family ka sat ghar aya tha 🥺",
   },
   {
     image: img4,
-    text: "A day full of enjoyymenttt 😌",
+    text: "ap ka sat bat kar ka jo sukun milta hai na 'ufff'😌",
   },
   {
     image: img5,
-    text: "Yeah, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose US. So maaf kar de goluu ❤️",
+    text: "Aur, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose us to be a bestie for aur life . So maaf kar de motuuu agar may na ap ko hurt kiya hai to ❤️",
   },
 ];
