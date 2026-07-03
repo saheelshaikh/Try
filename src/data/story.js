@@ -1,8 +1,8 @@
-import img1 from "../assets/images/img01.jpg";
-import img2 from "../assets/images/img02.jpg";
-import img3 from "../assets/images/img03.jpg";
-import img4 from "../assets/images/img04.jpg";
-import img5 from "../assets/images/img05.jpg";
+import img1 from "../assets/images/img01.JPG";
+import img2 from "../assets/images/img02.JPG";
+import img3 from "../assets/images/img03.JPG";
+import img4 from "../assets/images/img04.PNG";
+import img5 from "../assets/images/img05.PNG";
 
 export const story = [
   {
