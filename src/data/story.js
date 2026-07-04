@@ -2,7 +2,7 @@ import img1 from "../assets/images/one.JPG";
 import img2 from "../assets/images/day.JPG";
 import img3 from "../assets/images/firstpic.JPG";
 import img4 from "../assets/images/funday.jpg";
-import img5 from "../assets/images/img05.PNG";
+import img5 from "../assets/images/img03.jpg";
 
 export const story = [
   {
@@ -11,7 +11,7 @@ export const story = [
   },
   {
     image: img2,
-    text: "Do you remember this picture? you took the mobile and send this to all your friends in snap ✨",
+    text: "Do you remember this picture? you took the mobile and send this to all your friends in snap ✨ us din meri wat lagwa di thi ki ap na meri 😌",
   },
   {
     image: img3,
@@ -19,7 +19,7 @@ export const story = [
   },
   {
     image: img4,
-    text: "ap ka sat bat kar ka jo sukun milta hai na 'ufff'😌",
+    text: "Aur itni payaari ho tumhe khud bhi nahi pata aur jab may ap sa bat karta hun to sab sadness katam ho ga ta hai 😌",
   },
   {
     image: img5,
