@@ -23,6 +23,6 @@ export const story = [
   },
   {
     image: img5,
-    text: "Aur, sometimes I do things that make you angry, and I am sorry for that. But just like this image, I choose us to be a bestie for aur life . So maaf kar de motuuu agar may na ap ko hurt kiya hai to ❤️",
+    text: "Bas itna chahta hoon ke waqt chahe kitna bhi badal jaye, hamari dosti kabhi na badle… kyunki kuch log zindagi mein sirf milte nahi, dil mein reh jaate hain. ❤️",
   },
 ];
